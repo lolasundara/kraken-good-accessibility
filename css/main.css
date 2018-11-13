@@ -63,4 +63,9 @@ html {
   .no-print {
     visibility: hidden;
   }
+
+  .inset-img {
+    border-color: #000;
+  }
+
 }
